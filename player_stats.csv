@@ -1,0 +1,278 @@
+player,zeroes,ones,twos,threes,fours,sixes,Number of runs,Number of balls played,wickets_taken,Player_Type
+Abbott,32,23,0,0,2,3,49,60,1,Bowler
+Abdul Basith,23,24,2,0,5,6,84,60,0,Batsman
+Abdul Samad,95,95,14,0,25,22,355,251,0,Batsman
+Abhijeet Tomar,30,16,6,0,8,0,60,60,0,Batsman
+Abhinav Manohar,69,75,6,0,21,10,231,181,0,Batsman
+Abhishek Sharma,291,236,43,1,111,61,1135,743,4,Batsman
+Abishek Porel,90,86,14,1,37,15,355,243,0,Batsman
+Adil Rashid,27,20,6,0,2,5,70,60,2,Bowler
+Akash Deep,30,25,1,0,2,2,47,60,8,Bowler
+Akash Madhwal,22,23,8,0,1,6,79,60,15,Bowler
+Akeal Hosein,23,30,2,0,1,4,62,60,1,Bowler
+Alzarri Joseph,28,23,5,0,2,2,53,60,16,Bowler
+Aman Hakim Khan,55,33,7,0,8,6,115,109,0,Batsman
+Angkrish Raghuvanshi,38,44,2,1,16,8,163,109,0,Batsman
+Anmolpreet Singh,46,33,5,0,17,2,123,103,0,Batsman
+Anshul Kamboj,34,17,5,0,0,4,51,60,2,Bowler
+Anuj Rawat,122,97,15,1,26,14,318,275,0,Batsman
+Anukul Roy,20,18,7,0,11,4,100,60,5,All-rounder
+Arjun Tendulkar,29,25,4,0,0,2,45,60,4,Bowler
+Arshad Khan,26,25,8,0,6,6,101,71,6,Bowler
+Arshdeep Singh,34,16,3,1,4,2,53,60,50,Bowler
+Arshin Kulkarni,28,22,2,0,6,2,62,60,0,Batsman
+Ashutosh Sharma,42,41,9,0,10,15,189,117,0,Batsman
+Ashwin,96,118,17,0,24,16,344,271,36,Bowler
+Atharva Taide,51,43,11,1,22,6,192,134,0,Batsman
+Avesh Khan,21,29,4,1,1,4,68,60,49,Bowler
+Axar,189,208,37,0,52,35,700,521,27,All-rounder
+Ayush Badoni,177,200,48,3,46,24,633,498,2,Batsman
+Azmatullah,24,24,4,0,2,6,76,60,4,Bowler
+Bairstow,155,119,13,0,67,23,551,377,0,Batsman
+Behrendorff,31,24,3,0,0,2,42,60,17,Bowler
+Bhui,21,23,7,0,6,3,79,60,0,Batsman
+Bhuvneshwar,55,35,7,0,10,0,89,107,43,Bowler
+Billings,61,53,10,0,9,10,169,143,0,Batsman
+Boult,25,24,6,0,5,2,68,62,47,Bowler
+Brevis,83,54,6,0,17,16,230,176,1,Batsman
+Bumrah,32,23,2,0,2,1,41,60,37,Bowler
+Buttler,473,374,74,6,162,71,1614,1160,0,Batsman
+Chahal,24,28,2,2,1,3,60,60,70,Bowler
+Chahar,22,28,5,0,3,2,62,60,18,Bowler
+Chakaravarthy,41,13,2,0,2,2,37,60,47,Bowler
+Chameera,26,19,6,0,3,6,79,60,11,Bowler
+Chawla,25,26,4,0,2,3,60,60,34,Bowler
+Conway,237,264,34,4,100,30,924,669,0,Batsman
+Coulter-Nile,28,23,5,0,0,4,57,60,0,Bowler
+Cummins,48,36,10,1,14,14,199,123,26,Bowler
+Daniel Sams,30,21,4,0,1,4,57,60,14,Bowler
+Darshan Nalkande,27,27,1,0,0,5,59,60,6,Bowler
+Daryl Mitchell,24,30,4,0,1,1,48,60,0,Bowler
+Dhawan,335,272,43,1,114,28,985,793,0,Batsman
+Dhoni,143,107,20,0,38,33,497,341,0,Batsman
+Dhruv Jurel,73,101,17,0,29,16,347,236,0,Batsman
+Dwayne Bravo,30,26,0,0,1,3,48,60,17,Bowler
+Fabian Allen,24,27,7,0,1,1,51,60,1,Bowler
+Fazalhaq Farooqi,25,26,5,0,0,4,60,60,6,Bowler
+Ferguson,34,20,2,0,2,2,44,60,27,Bowler
+Ferreira,26,15,6,0,8,5,89,60,0,Batsman
+Finch,35,16,6,0,10,3,86,70,0,Batsman
+Fraser-McGurk,60,25,3,1,32,28,330,149,0,Batsman
+Gaikwad,401,450,81,3,137,62,1541,1134,0,Batsman
+Gerald Coetzee,32,23,1,0,0,4,49,60,13,Bowler
+Glenn Phillips,30,16,1,0,7,6,82,60,1,Batsman
+Gowtham,25,19,6,0,4,6,83,60,8,All-rounder
+Green,136,196,27,2,56,31,666,448,18,Bowler
+Gulbadin,23,25,0,0,8,4,81,60,0,All-rounder
+Gurbaz,119,54,11,1,24,19,289,228,0,Batsman
+Hardik Pandya,271,336,57,1,92,38,1049,795,25,All-rounder
+Harpreet Brar,54,45,6,0,14,6,149,125,20,Bowler
+Harpreet Singh,41,33,6,0,10,3,103,93,0,Batsman
+Harry Brook,70,50,12,0,23,4,190,159,0,Batsman
+Harshal Patel,41,16,1,0,5,4,62,67,66,Bowler
+Harshit Rana,26,28,3,0,1,2,50,60,27,Bowler
+Hasaranga,39,25,6,0,7,1,71,78,36,Bowler
+Hazlewood,29,24,4,0,1,2,48,60,24,Bowler
+Head,102,97,11,0,64,32,567,306,0,Batsman
+Hetmyer,189,181,35,1,42,51,728,499,0,Batsman
+Holder,29,21,1,0,2,7,73,60,20,Bowler
+Hooda,180,228,38,3,55,22,665,526,1,Batsman
+Hrithik Shokeen,32,20,5,0,9,0,66,66,5,Bowler
+Indrajith,34,17,2,1,6,0,48,60,0,Batsman
+Ishan Kishan,372,303,37,2,131,45,1177,890,0,Batsman
+Ishant,29,20,6,0,1,4,60,60,20,Bowler
+J Richardson,32,18,7,0,1,2,48,60,0,Bowler
+J Suchith,29,18,7,0,0,6,68,60,7,Bowler
+Jackson,18,29,5,0,5,3,77,60,0,Batsman
+Jadeja,130,202,40,1,39,22,573,434,34,Bowler
+Jaiswal,367,256,39,4,165,52,1318,883,0,Batsman
+Jitesh Sharma,189,175,35,1,53,45,730,498,0,Batsman
+Jofra Archer,32,18,7,0,0,3,50,60,2,Bowler
+Jordan,29,18,12,0,0,1,48,60,5,Bowler
+KM Asif,26,21,6,0,1,6,73,60,3,Bowler
+Karan Sharma,23,25,1,0,7,4,79,60,0,Batsman
+Karn Sharma,27,21,3,0,3,6,75,60,18,Bowler
+Karthik,168,174,30,0,67,49,796,488,0,Batsman
+Kartik Tyagi,29,25,3,0,1,2,47,60,2,Bowler
+Kartikeya,24,28,3,0,1,4,62,60,5,Bowler
+Karun Nair,21,25,1,0,8,5,89,60,0,Batsman
+Kedar Jadhav,31,12,6,0,7,4,76,60,0,Batsman
+Khaleel Ahmed,24,26,6,0,1,3,60,60,42,Bowler
+Klaasen,146,243,51,0,51,63,927,554,0,Batsman
+Kohler-Cadmore,36,15,1,0,7,1,51,60,0,Batsman
+Kohli,438,525,85,6,159,62,1721,1275,0,Batsman
+Krunal Pandya,168,151,47,3,38,15,496,422,26,All-rounder
+Kuldeep Sen,23,26,3,0,4,4,72,60,14,Bowler
+Kuldeep Yadav,76,52,6,0,11,3,126,148,47,Bowler
+Kumar Kartikeya,24,29,2,0,1,4,61,60,5,Bowler
+Kushagra,18,23,6,0,8,5,97,60,0,Batsman
+Lalit Yadav,99,86,13,1,20,7,237,226,7,All-rounder
+Lewis,29,17,3,0,8,3,73,60,0,Batsman
+Litton Das,26,19,3,0,8,4,81,60,0,Batsman
+Livingstone,168,177,18,2,52,51,733,468,11,All-rounder
+Lomror,80,94,13,0,25,21,346,233,1,Batsman
+M Bracewell,22,28,3,0,6,1,64,60,6,Bowler
+M Theekshana,27,21,5,0,3,4,67,60,12,Bowler
+Maharaj,26,20,5,0,3,6,78,60,2,Bowler
+Manav Suthar,23,26,7,0,0,4,64,60,0,Bowler
+Mandeep,33,16,1,0,9,1,60,60,0,Batsman
+Manish Pandey,107,109,16,1,26,7,290,266,0,Batsman
+Marco Jansen,30,26,4,0,5,2,66,67,19,Bowler
+Mark Wood,24,21,6,0,3,6,81,60,11,Bowler
+Markande,23,25,4,0,2,6,77,60,21,Bowler
+Markram,200,325,44,2,61,31,849,663,2,Batsman
+Maxwell,169,144,24,3,66,48,753,454,18,All-rounder
+Mayank,188,158,24,2,60,13,530,445,0,Batsman
+Mayank Dagar,34,18,5,0,0,3,46,60,2,Bowler
+Mayers,135,56,14,0,35,22,356,262,0,All-rounder
+Meredith,31,22,2,0,0,5,56,60,17,Bowler
+Miller,214,300,53,0,70,44,950,681,0,Batsman
+Mishra,27,23,4,0,2,4,63,60,8,Bowler
+Mitchell,64,105,21,1,27,10,318,228,1,Batsman
+Mitchell Marsh,142,112,11,2,39,24,440,330,17,All-rounder
+Moeen Ali,154,142,16,0,43,25,496,380,19,All-rounder
+Mohit Rathee,20,30,5,0,1,4,68,60,0,Bowler
+Mohit Sharma,28,18,4,0,7,3,72,60,47,All-rounder
+Mohsin Khan,26,24,5,0,2,3,60,60,26,Bowler
+Mukesh Choudhary,26,25,4,0,1,4,61,60,16,Bowler
+Mukesh Kumar,30,24,3,0,1,2,46,60,30,Bowler
+Murugan Ashwin,27,21,4,0,1,7,75,60,9,Bowler
+Mustafizur,23,26,6,0,2,3,64,60,24,Bowler
+N Jagadeesan,61,39,5,0,17,2,129,124,0,Batsman
+Nabi,26,22,2,0,6,4,74,60,2,All-rounder
+Naman Dhir,35,22,5,0,12,10,140,84,0,Batsman
+Narine,165,82,13,0,58,40,580,358,39,Bowler
+Nathan Ellis,35,19,5,0,0,1,35,60,18,Bowler
+Navdeep Saini,27,23,5,0,1,4,61,60,6,Bowler
+Naveen-ul-Haq,29,18,5,0,3,5,70,60,22,Bowler
+Neesham,20,25,4,1,6,4,84,60,0,All-rounder
+Nehal Wadhera,102,91,10,0,30,16,327,249,0,Batsman
+Nitish Rana,245,209,24,3,73,43,816,597,3,Batsman
+Nitish Reddy,82,89,14,0,15,21,303,221,4,All-rounder
+Noor Ahmad,27,22,5,0,2,4,64,60,24,Bowler
+Nortje,26,23,2,0,6,3,69,60,24,Bowler
+Obed McCoy,28,23,3,0,0,6,65,60,11,Bowler
+Odean Smith,32,18,2,0,1,7,68,60,7,Bowler
+Padikkal,259,202,22,3,75,20,675,581,0,Batsman
+Pant,188,204,26,0,71,41,786,530,0,Batsman
+Parnell,31,22,4,0,0,3,48,60,9,Bowler
+Philip Salt,139,107,20,0,72,32,627,370,0,Batsman
+Pollard,75,46,10,0,6,9,144,146,4,All-rounder
+Pooran,261,277,40,0,77,83,1163,738,0,Batsman
+Powell,111,80,14,0,21,28,360,254,1,Batsman
+Prabhsimran,199,121,23,1,70,39,684,453,0,Batsman
+Prabhudessai,56,28,12,2,11,4,126,113,0,Batsman
+Prasidh,26,31,1,0,0,2,45,60,21,Bowler
+Praveen Dubey,28,23,4,0,2,3,57,60,1,Bowler
+Prerak Mankad,28,22,4,0,13,2,94,69,0,Batsman
+Pretorius,24,20,4,0,3,9,94,60,7,Bowler
+Prithvi Shaw,155,104,16,1,76,15,533,367,0,Batsman
+Priyam Garg,22,21,6,1,8,2,80,60,0,Batsman
+Rabada,35,20,2,0,5,4,68,66,41,Bowler
+Rahane,187,209,35,4,62,27,701,524,0,Batsman
+Rahul,404,465,76,1,118,53,1410,1117,0,Batsman
+Rahul Chahar,55,22,3,0,10,5,98,95,32,Bowler
+Rahul Tewatia,135,132,19,0,49,21,492,356,0,Batsman
+Raj Bawa,21,28,4,0,4,3,70,60,0,Batsman
+Rajapaksa,80,69,15,0,22,15,277,201,0,Batsman
+Rajat Patidar,167,175,26,1,48,51,728,468,0,Batsman
+Ramandeep Singh,37,37,10,1,8,13,170,106,6,Batsman
+Rashid Khan,70,50,16,1,22,25,323,184,58,Bowler
+Rasikh Salam,28,20,0,1,5,6,79,60,9,Bowler
+Ravi Bishnoi,30,21,5,1,1,2,50,60,41,Bowler
+Ravindra,56,50,6,0,22,12,222,146,0,Batsman
+Rayudu,148,129,9,0,35,24,431,345,0,Batsman
+Raza,59,44,18,2,12,8,182,143,3,All-rounder
+Richard Gleeson,25,23,5,0,2,5,71,60,1,Bowler
+Rinku Singh,204,225,40,1,61,44,816,575,0,Batsman
+Ripal Patel,17,32,3,1,5,2,73,60,0,Batsman
+Rishi Dhawan,32,13,4,0,6,5,75,60,7,All-rounder
+Riyan Parag,221,247,38,1,55,48,834,610,1,Batsman
+Rohit,377,213,25,1,107,52,1006,775,0,Batsman
+Root,22,28,1,0,8,1,68,60,0,All-rounder
+Rossouw,94,70,14,0,36,16,338,230,0,Batsman
+Roy,84,59,5,0,36,12,285,196,0,Batsman
+Russell,226,132,26,0,51,66,784,501,47,All-rounder
+Rutherford,33,24,1,0,1,1,36,60,0,Batsman
+Saha,183,136,21,1,65,11,507,417,0,Batsman
+Sai Kishore,28,25,3,0,0,4,55,60,13,Bowler
+Sai Sudharsan,243,338,59,2,95,32,1034,769,0,Batsman
+Sakariya,28,19,4,0,1,8,79,60,3,Bowler
+Sam Curran,157,183,36,0,43,18,535,437,25,Bowler
+Sameer Rizvi,24,24,5,0,5,2,66,60,0,Batsman
+Samson,338,349,43,1,116,74,1346,921,0,Batsman
+Sandeep Sharma,27,26,4,0,0,3,52,60,33,Bowler
+Sangwan,29,25,2,0,1,3,51,60,3,Bowler
+Sanjay Yadav,27,23,5,0,1,4,61,60,0,Bowler
+Santner,29,20,3,0,4,4,66,60,10,Bowler
+Sanvir Singh,23,23,5,0,6,3,75,60,0,Batsman
+Sarfaraz Khan,51,54,10,0,13,3,144,131,0,Batsman
+Saurav Chauhan,26,21,2,0,10,1,71,60,0,Batsman
+Seifert,28,21,2,1,4,4,68,60,0,Batsman
+Shahbaz Ahmed,158,169,35,1,24,23,476,410,12,All-rounder
+Shahrukh Khan,121,104,15,0,26,26,394,292,0,Batsman
+Shai Hope,48,43,10,0,12,12,183,125,0,Batsman
+Shami,24,25,3,0,1,7,77,60,49,Bowler
+Shams Mulani,29,21,3,0,1,6,67,60,0,Bowler
+Shanaka,21,28,3,0,7,1,68,60,0,Batsman
+Shankar,117,121,20,0,35,17,403,310,1,Batsman
+Sharath BR,30,18,2,0,3,7,76,60,0,Batsman
+Shashank Singh,87,109,16,0,33,25,423,270,1,Batsman
+Shepherd,29,17,5,0,7,10,115,68,6,All-rounder
+Shivam Dube,258,282,48,1,62,79,1103,730,1,Batsman
+Shivam Mavi,33,21,2,0,0,4,49,60,5,Bowler
+Shivam Singh,19,24,5,0,7,5,92,60,0,Batsman
+Short,52,23,5,0,15,4,117,99,0,All-rounder
+Shreyas Gopal,23,29,4,0,2,2,57,60,4,Bowler
+Shreyas Iyer,199,221,36,3,75,25,752,559,0,Batsman
+Shubham Dubey,17,24,6,0,4,9,106,60,0,Batsman
+Shubman Gill,385,521,107,6,173,59,1799,1251,0,Batsman
+Simarjeet Singh,30,25,3,1,1,0,38,60,10,Bowler
+Siraj,33,16,3,0,5,3,60,60,44,Bowler
+Southee,35,18,4,0,0,3,44,60,18,Bowler
+Spencer Johnson,25,22,5,0,3,5,74,60,4,Bowler
+Srikar Bharat,31,17,3,0,4,5,69,60,0,Batsman
+Starc,24,28,1,0,3,4,66,60,20,Bowler
+Stoinis,243,239,31,0,69,55,907,637,14,Batsman
+Stokes,21,22,1,0,12,4,96,60,0,All-rounder
+Sumit Kumar,34,18,2,0,4,2,50,60,0,All-rounder
+Suryakumar Yadav,245,254,56,2,122,60,1220,739,0,Batsman
+Swapnil Singh,30,21,0,0,3,6,69,60,6,Bowler
+Tanush Kotian,28,20,4,0,5,3,66,60,0,Batsman
+Thakur,64,70,12,0,22,12,254,180,28,All-rounder
+Tilak Varma,279,328,50,2,90,56,1130,805,0,Batsman
+Tim David,131,147,34,2,37,46,645,397,0,Batsman
+Topley,32,19,3,0,1,5,59,60,5,Bowler
+Tripathi,231,222,30,2,87,36,852,608,0,Batsman
+Tristan Stubbs,64,103,18,2,26,26,405,239,4,Batsman
+Turner,21,20,6,0,7,6,96,60,0,Batsman
+Tushar Deshpande,37,15,1,1,1,5,54,60,43,Bowler
+Tymal Mills,30,18,3,0,1,8,76,60,6,Bowler
+Umesh Yadav,36,24,6,0,5,5,86,76,26,Bowler
+Umran Malik,34,18,4,0,1,3,48,60,29,Bowler
+Unadkat,29,22,9,0,7,4,92,71,17,Bowler
+Uthappa,90,48,8,2,19,14,230,181,0,Batsman
+V Viyaskanth,26,26,1,1,0,6,67,60,1,Bowler
+Vaibhav Arora,27,28,3,0,0,2,46,60,20,Bowler
+Venkatesh Iyer,281,241,47,1,84,47,956,701,0,Batsman
+Vijaykumar Vyshak,26,24,6,0,0,4,60,60,17,Bowler
+Vishnu Vinod,21,24,6,0,4,5,82,60,0,Batsman
+Vivrant Sharma,24,22,1,0,9,4,84,60,0,Bowler
+Vohra,28,22,3,0,4,3,62,60,0,Batsman
+W Saha,112,99,8,0,40,7,317,266,0,Batsman
+Wade,78,41,8,0,23,2,161,152,0,Batsman
+Warner,340,261,32,5,133,33,1070,804,0,Batsman
+Washington Sundar,51,59,9,2,15,3,161,139,10,All-rounder
+Wiese,26,20,2,0,8,4,80,60,0,Batsman
+Will Jacks,48,44,7,0,16,18,230,133,2,All-rounder
+Willey,36,17,4,0,7,0,53,64,5,Bowler
+Williams,23,29,4,0,0,4,61,60,1,Bowler
+Williamson,130,93,11,0,20,8,243,262,0,Batsman
+Wood,27,23,5,0,1,4,61,60,1,Bowler
+Yash Dayal,30,23,0,0,0,7,65,60,31,Bowler
+Yash Dhull,26,27,0,0,5,2,59,60,0,Batsman
+Yudhvir Singh,32,16,6,0,1,5,62,60,4,Bowler
+Zampa,29,24,2,0,0,5,58,60,9,Bowler
+de Kock,243,238,38,1,86,40,901,646,0,Batsman
+du Plessis,398,437,70,5,156,70,1636,1136,0,Batsman
+van der Dussen,26,21,5,0,5,3,69,60,0,Batsman
